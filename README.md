@@ -14,6 +14,7 @@ Backtracking is an algorithmic paradigm that tries different solutions until fin
 - Permutation of String  
 - Sudoku  
 - Tug of War  
+- Rat Maze 
   
 **2. Divide and Conquer:**
 Divide and Conquer is an algorithmic paradigm. A typical Divide and Conquer algorithm solves a problem using following three steps.  
