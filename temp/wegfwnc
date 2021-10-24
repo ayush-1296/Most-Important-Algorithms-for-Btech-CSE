@@ -1,0 +1,39 @@
+Sometimes major shifts happen virtually unnoticed. On May 5, IBM announced Project CodeNet to very little media or academic attention.
+
+CodeNet is a follow-up to ImageNet, a large-scale dataset of images and their descriptions; the images are free for non-commercial uses. ImageNet is now central to the progress of deep learning computer vision.
+
+CodeNet is an attempt to do for Artifical Intelligence (AI) coding what ImageNet did for computer vision: it is a dataset of over 14 million code samples, covering 50 programming languages, intended to solve 4,000 coding problems. The dataset also contains numerous additional data, such as the amount of memory required for software to run and log outputs of running code.
+
+Accelerating machine learning
+IBM’s own stated rationale for CodeNet is that it is designed to swiftly update legacy systems programmed in outdated code, a development long-awaited since the Y2K panic over 20 years ago, when many believed that undocumented legacy systems could fail with disastrous consequences.
+
+However, as security researchers, we believe the most important implication of CodeNet — and similar projects — is the potential for lowering barriers, and the possibility of Natural Language Coding (NLC).
+
+
+An IBM-produced video looks at the quest to produce an AI that can understand human language.
+In recent years, companies such as OpenAI and Google have been rapidly improving Natural Language Processing (NLP) technologies. These are machine learning-driven programs designed to better understand and mimic natural human language and translate between different languages. Training machine learning systems requires access to a large dataset with texts written in the desired human languages. NLC applies all this to coding too.
+
+Coding is a difficult skill to learn let alone master and an experienced coder would be expected to be proficient in multiple programming languages. NLC, in contrast, leverages NLP technologies and a vast database such as CodeNet to enable anyone to use English, or ultimately French or Chinese or any other natural language, to code. It could make tasks like designing a website as simple as typing “make a red background with an image of an airplane on it, my company logo in the middle and a contact me button underneath,” and that exact website would spring into existence, the result of automatic translation of natural language to code.
+
+It is clear that IBM was not alone in its thinking. GPT-3, OpenAI’s industry-leading NLP model, has been used to allow coding a website or app by writing a description of what you want. Soon after IBM’s news, Microsoft announced it had secured exclusive rights to GPT-3.
+
+Microsoft also owns GitHub, — the largest collection of open source code on the internet — acquired in 2018. The company has added to GitHub’s potential with GitHub Copilot, an AI assistant. When the programmer inputs the action they want to code, Copilot generates a coding sample that could achieve what they specified. The programmer can then accept the AI-generated sample, edit it or reject it, drastically simplifying the coding process. Copilot is a huge step towards NLC, but it is not there yet.
+
+Consequences of natural language coding
+Although NLC is not yet fully feasible, we are moving quickly towards a future where coding is much more accessible to the average person. The implications are huge.
+
+First, there are consequences for research and development. It is argued that the greater the number of potential innovators, the higher the rate of innovation. By removing barriers to coding, the potential for innovation through programming expands.
+
+Further, academic disciplines as varied as computational physics and statistical sociology increasingly rely on custom computer programs to process data. Decreasing the skill required to create these programs would increase the ability of researchers in specialized fields outside computer sciences to deploy such methods and make new discoveries.
+
+Children sit in front of screens in a classroom.
+Plain-language coding will make programming and design more accessible and remove the need for specialized training. (Shutterstock)
+However, there are also dangers. Ironically, one is the de-democratization of coding. Currently, numerous coding platforms exist. Some of these platforms offer varied features that different programmers favour, however none offer a competitive advantage. A new programmer could easily use a free, “bare bones” coding terminal and be at little disadvantage.
+
+However, AI at the level required for NLC is not cheap to develop or deploy, and is likely to be monopolized by major platform corporations such as Microsoft, Google or IBM. The service may be offered for a fee or, like most social media services, for free but with unfavourable or exploitative conditions for its use.
+
+Read more: If it’s free online, you are the product
+
+There is also reason to believe that such technologies will be dominated by platform corporations due to the way machine learning works. Theoretically, programs such as Copilot improve when introduced to new data: the more they are used, the better they become. This makes it harder for new competitors, even if they have a stronger or more ethical product.
+
+Unless there is a serious counter effort, it seems likely that large capitalist
